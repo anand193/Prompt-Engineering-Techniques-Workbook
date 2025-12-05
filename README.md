@@ -12,6 +12,7 @@ The focus is on building robust, controllable AI systems through well-architecte
 
 ---
 🛠️ Techniques Demonstrated
+
 The portfolio is structured into thematic categories, each highlighting key capabilities:
 
 1. Foundational & Contextual Prompting
@@ -29,35 +30,26 @@ Role, Goal, Context, Format (RGCF)
    - SQL query generation
 
 3. Advanced Reasoning
-
-Chain-of-Thought (CoT) prompting
-
-Step-by-step problem decomposition
-
-Long-context decision making
-
-Example: career development roadmap
+- Chain-of-Thought (CoT) prompting
+- Step-by-step problem decomposition
+- Long-context decision making
+  - Example: career development roadmap
 
 4. Strategic Thinking
-
-Tree-of-Thoughts (ToT) reasoning
-
-Multi-path exploration
-
-Comparative evaluation & synthesis
-
-Example: job offer evaluation, study planning
+- Tree-of-Thoughts (ToT) reasoning
+- Multi-path exploration
+- Comparative evaluation & synthesis
+  - Example: job offer evaluation, study planning
 
 5. Reliability & Verification
-
-Self-Consistency prompting
-
-Multi-method calculation cross-check
+- Self-Consistency prompting
+- Multi-method calculation cross-check
 
 6. Multimodal Understanding
 
-Image → Text captioning using Gemini Vision
+- Image → Text captioning using Gemini Vision
 
+---
 📁 Repository Contents
 File	Description	Purpose
 prompt_engineering_workbook.ipynb	Full Jupyter notebook with code, methods, explanations, and LLM outputs	Primary portfolio artifact; recommended starting point
