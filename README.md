@@ -50,38 +50,32 @@ Role, Goal, Context, Format (RGCF)
 - Image → Text captioning using Gemini Vision
 
 ---
-📁 Repository Contents
-File	Description	Purpose
-prompt_engineering_workbook.ipynb	Full Jupyter notebook with code, methods, explanations, and LLM outputs	Primary portfolio artifact; recommended starting point
-prompt_engineering_workbook.py	Standalone Python script of the prompting logic	Integration-ready code; ideal for code review
+
 🔧 Technologies Used
 
-LLM Platform
-
-Google Gemini API (gemini-2.5-pro, gemini-2.5-flash)
-
-Libraries
-
-google-generativeai
-
-langchain-google-genai
-
-pypdf
-
-Pillow
+- LLM Platform
+   - Google Gemini API (gemini-2.5-pro, gemini-2.5-flash)
+   
+- Libraries
+  - google-generativeai
+  - langchain-google-genai
+  - pypdf
+  - Pillow
+---
 
 🎯 Project Goals
 
-Demonstrate engineering-level prompt design
+- Demonstrate engineering-level prompt design
+- Showcase advanced reasoning control techniques
+- Provide reusable patterns for future AI workflows
+- Build a portfolio-friendly artifact emphasizing:
+   - Clarity
+   - Reliability
+   - Systematic thinking
+---
+📈 Future Work
 
-Showcase advanced reasoning control techniques
-
-Provide reusable patterns for future AI workflows
-
-Build a portfolio-friendly artifact emphasizing:
-
-Clarity
-
-Reliability
-
-Systematic thinking
+- Add evaluation metrics for prompt effectiveness
+- Automate self-consistency checks
+- Add more multimodal tasks
+- Explore tool-use and agent workflows
