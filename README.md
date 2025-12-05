@@ -10,31 +10,23 @@ This workbook showcases practical mastery of Prompt Engineering by applying prog
 
 The focus is on building robust, controllable AI systems through well-architected prompting protocols rather than ad-hoc prompts.
 
+---
 🛠️ Techniques Demonstrated
-
 The portfolio is structured into thematic categories, each highlighting key capabilities:
 
 1. Foundational & Contextual Prompting
 
 Role, Goal, Context, Format (RGCF)
-
-Structured output templates
-
-Delimiters for clarity
-
-Zero-Shot classification
-
-ATS-style resume/job scoring
+- Structured output templates
+- Delimiters for clarity
+- Zero-Shot classification
+- ATS-style resume/job scoring
 
 2. Example-Based Learning
-
-Few-Shot prompting for:
-
-Mathematical problem-solving
-
-Information extraction
-
-SQL query generation
+- Few-Shot prompting for:
+   - Mathematical problem-solving
+   - Information extraction
+   - SQL query generation
 
 3. Advanced Reasoning
 
